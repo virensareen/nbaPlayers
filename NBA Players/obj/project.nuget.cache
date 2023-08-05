@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bGUzWc113a04q7gqahDxlDwFSZmocsBK0iAuQ/EbI1HiMN02EdFjVm/DXFkZEbp+XTmWnZySJ+T2CFiRqxKZ7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\virensareen\\source\\repos\\NBA Players\\NBA Players\\NBA Players.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\virensareen\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

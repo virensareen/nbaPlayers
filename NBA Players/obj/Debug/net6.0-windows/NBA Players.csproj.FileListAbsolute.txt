@@ -1,0 +1,19 @@
+C:\Users\virensareen\source\repos\NBA Players\NBA Players\bin\Debug\net6.0-windows\NBA Players.exe
+C:\Users\virensareen\source\repos\NBA Players\NBA Players\bin\Debug\net6.0-windows\NBA Players.deps.json
+C:\Users\virensareen\source\repos\NBA Players\NBA Players\bin\Debug\net6.0-windows\NBA Players.runtimeconfig.json
+C:\Users\virensareen\source\repos\NBA Players\NBA Players\bin\Debug\net6.0-windows\NBA Players.dll
+C:\Users\virensareen\source\repos\NBA Players\NBA Players\bin\Debug\net6.0-windows\NBA Players.pdb
+C:\Users\virensareen\source\repos\NBA Players\NBA Players\obj\Debug\net6.0-windows\NBA Players.csproj.AssemblyReference.cache
+C:\Users\virensareen\source\repos\NBA Players\NBA Players\obj\Debug\net6.0-windows\NBA_Players.Form1.resources
+C:\Users\virensareen\source\repos\NBA Players\NBA Players\obj\Debug\net6.0-windows\NBA Players.csproj.GenerateResource.cache
+C:\Users\virensareen\source\repos\NBA Players\NBA Players\obj\Debug\net6.0-windows\NBA Players.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virensareen\source\repos\NBA Players\NBA Players\obj\Debug\net6.0-windows\NBA Players.AssemblyInfoInputs.cache
+C:\Users\virensareen\source\repos\NBA Players\NBA Players\obj\Debug\net6.0-windows\NBA Players.AssemblyInfo.cs
+C:\Users\virensareen\source\repos\NBA Players\NBA Players\obj\Debug\net6.0-windows\NBA Players.csproj.CoreCompileInputs.cache
+C:\Users\virensareen\source\repos\NBA Players\NBA Players\obj\Debug\net6.0-windows\NBA Players.dll
+C:\Users\virensareen\source\repos\NBA Players\NBA Players\obj\Debug\net6.0-windows\refint\NBA Players.dll
+C:\Users\virensareen\source\repos\NBA Players\NBA Players\obj\Debug\net6.0-windows\NBA Players.pdb
+C:\Users\virensareen\source\repos\NBA Players\NBA Players\obj\Debug\net6.0-windows\NBA Players.genruntimeconfig.cache
+C:\Users\virensareen\source\repos\NBA Players\NBA Players\obj\Debug\net6.0-windows\ref\NBA Players.dll
+C:\Users\virensareen\source\repos\NBA Players\NBA Players\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\virensareen\source\repos\NBA Players\NBA Players\obj\Debug\net6.0-windows\NBA Players.csproj.CopyComplete
